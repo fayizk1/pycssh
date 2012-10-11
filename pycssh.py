@@ -1,1 +1,1 @@
-#!/usr/bin/e python
+#!/usr/bin/env python
